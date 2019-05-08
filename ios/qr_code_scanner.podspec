@@ -18,5 +18,7 @@ A new Flutter project.
   s.dependency 'Flutter'
   s.dependency 'MTBBarcodeScanner'
   s.ios.deployment_target = '8.0'
+  s.swift_version = '5.0'
+  s.static_framework = true
 end
 
